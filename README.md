@@ -43,3 +43,6 @@ I tried first with my gmail address, but Google has a feature that blocks this a
 ## Donations
 Paypal: sudosuberenu@gmail.com
 😍 I'm saving to buy this 😍 -> https://www.amazon.es/Samsung-C27R504FHU-Pantalla-para-Curva/dp/B07PBBM8SW/ref=sr_1_4?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=monitor+curvo&qid=1587139759&sr=8-4
+
+## Author
+Berenu <sudosuberenu@gmail.com>
