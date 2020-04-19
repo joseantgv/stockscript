@@ -34,7 +34,7 @@ Example: https://www.decathlon.es/es/p/mancuerna-hexagonal-hex-dumbbell-cross-tr
 A red number will be displayed, this number is the productId!
 4) Now write:
 ```window.tc_vars.product_id_article[0]``` 
-This number is the catalogRefIds
+This number is the catalogRefId
 
 ## Important
 I tried first with my gmail address, but Google has a feature that blocks this action. For that reason I used an outlook email.
